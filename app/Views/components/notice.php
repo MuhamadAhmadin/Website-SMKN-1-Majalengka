@@ -4,10 +4,10 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="notice-right-wrapper mb-25 pb-25">
-                    <h3>TAKE A VIDEO TOUR</h3>
+                    <h3>VIDEO TOUR SEKOLAH KAMI</h3>
                     <div class="notice-video">
                         <div class="video-icon video-hover">
-                            <a class="video-popup" href="https://www.youtube.com/watch?v=fkoEj95puX0">
+                            <a class="video-popup" href="https://www.youtube.com/watch?v=SGbMSluQxQs">
                                 <i class="zmdi zmdi-play"></i>
                             </a>
                         </div>
@@ -16,37 +16,31 @@
             </div>
             <div class="col-md-6">
                 <div class="notice-left-wrapper">
-                    <h3>notice board</h3>
+                    <h3>Papan Peringatan</h3>
                     <div class="notice-left">
                         <div class="single-notice-left mb-23 pb-20">
-                            <h4>5, June 2021</h4>
-                            <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain
-                                was born and I will give you a complete </p>
+                            <h4>1, Oktober 2021</h4>
+                            <p>Akan dilaksanakan pentas seni dan pengumuman siswa berprestasi di lapangan upacara </p>
                         </div>
                         <div class="single-notice-left hidden-sm mb-23 pb-20">
-                            <h4>4, June 2021</h4>
-                            <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain
-                                was born and I will give you a complete </p>
+                            <h4>2, Oktober 2021</h4>
+                            <p>Akan dilaksanakan pentas seni dan pengumuman siswa berprestasi di lapangan upacara </p>
                         </div>
                         <div class="single-notice-left pb-70">
-                            <h4>3, June 2021</h4>
-                            <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain
-                                was born and I will give you a complete </p>
+                            <h4>3, Oktober 2021</h4>
+                            <p>Akan dilaksanakan pentas seni dan pengumuman siswa berprestasi di lapangan upacara </p>
                         </div>
                         <div class="single-notice-left mb-23 pb-20">
-                            <h4>5, June 2021</h4>
-                            <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain
-                                was born and I will give you a complete </p>
+                            <h4>5, Oktober 2021</h4>
+                            <p>Akan dilaksanakan pentas seni dan pengumuman siswa berprestasi di lapangan upacara </p>
                         </div>
                         <div class="single-notice-left hidden-sm mb-23 pb-20">
-                            <h4>4, June 2021</h4>
-                            <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain
-                                was born and I will give you a complete </p>
+                            <h4>6, Oktober 2021</h4>
+                            <p>Akan dilaksanakan pentas seni dan pengumuman siswa berprestasi di lapangan upacara </p>
                         </div>
                         <div class="single-notice-left pb-70">
-                            <h4>3, June 2021</h4>
-                            <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain
-                                was born and I will give you a complete </p>
+                            <h4>7, Oktober 2021</h4>
+                            <p>Akan dilaksanakan pentas seni dan pengumuman siswa berprestasi di lapangan upacara </p>
                         </div>
                     </div>
                 </div>

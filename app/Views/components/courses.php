@@ -52,7 +52,7 @@
                         </a>
                     </div>
                     <div class="course-content">
-                        <h3><a href="course-details.html">EXPERIMENTAL</a></h3>
+                        <h3><a href="course-details.html">IoT LEARNING</a></h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, labore.</p>
                         <a class="default-btn" href="course-details.html">read more</a>
                     </div>
