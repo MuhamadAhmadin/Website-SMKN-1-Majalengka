@@ -4,13 +4,10 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="about-content">
-                    <h2><span>EDUHOME</span> the best education theme for you</h2>
-                    <p>I must explain to you how all this mistaken idea of denouncing pleure and prsing pain was born
-                        and I will give you a complete account of the system, and expound the actual teachings the
-                        master-builder of humanit happiness</p>
-                    <p>I must explain to you how all this mistaken idea of denouncing pleure and prsing pain was born
-                        and I will give you a complete account of the system</p>
-                    <a class="default-btn" href="about.html">buy now</a>
+                    <h2><span>SMKN 1 MAJALENGKA</span> sekolah untuk siswa yang hebat</h2>
+                    <p>Mengembangkan komponen seluruh sekolah secara optimal baik dalam bidang akademis maupun non akademis dan berwawasan lingkungan sehingga mampu bersaing secara global.</p>
+                    <p>Dengan lingkungan sekolah yang kondusif, aman, nyaman, tentram, damai, tertib, disiplin, sehat kekeluargaan dan penuh tanggung jawab.</p>
+                    <a class="default-btn" href="about.html">DAFTAR SEKARANG</a>
                 </div>
             </div>
             <div class="col-md-6">

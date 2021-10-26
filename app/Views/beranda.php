@@ -4,11 +4,13 @@
 
 <?= $this->include('components/slider') ?>
 
+<?= $this->include('components/about') ?>
+
+<?= $this->include('components/cards') ?>
+
 <?= $this->include('components/courses') ?>
 
 <?= $this->include('components/notice') ?>
-
-<?= $this->include('components/about') ?>
 
 <?= $this->include('components/events') ?>
 

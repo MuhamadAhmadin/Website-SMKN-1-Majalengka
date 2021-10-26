@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="footer-logo text-center mb-70">
-                        <a href="index.html"><img src="img/logo/footer-logo.png" alt="eduhome"></a>
+                        <a href="index.html"><img src="img/logo.png" alt="smkn 1 majalengka" width="400"></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -73,8 +73,8 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="copyright text-md-start">
-                        <p class="text-left">Copyright © <a href="https://devitems.com/" target="_blank">HasTech</a>
-                            2017. All Right Reserved By Hastech.</p>
+                        <p class="text-left">Copyright © <a href="javascript:void(0)" target="_blank">Muhamad Ahmadin</a>
+                            2021. NIM: 190511024.</p>
                     </div>
                 </div>
                 <div class="col-md-6">

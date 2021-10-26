@@ -6,15 +6,14 @@
                 <div class="col-lg-8 offset-lg-2">
                     <div class="single-testimonial">
                         <div class="testimonial-info">
-                            <div class="testimonial-img">
-                                <img src="img/testimonial/testimonial.jpg" alt="testimonial">
+                            <div class="testimonial-img" style="height: 80px !important; width:80px !important;">
+                                <img src="img/kepsek.jpg" alt="testimonial" style="height: 100%;width:100%;object-fit:cover;background-position: center top;">
                             </div>
                             <div class="testimonial-content">
-                                <p>I must explain to you how all this mistaken idea of denoung pleure and praising pain
-                                    was born and I will give you a coete account of the system, and expound the actual
+                                <p>Teknologi Informasi Web menjadi sarana bagi SMK Negeri 1 Majalengka untuk memberi pelayanan informasi secara cepat, jelas, dan akuntable. Sekolah siap menerima saran, tanggapan konstruktif dari semua pihak yang akhirnya sekolah akan mampu menjawab keinginan yang di butuhkan masyarakat yaitu memberikan apa sesuai dengan visi dan misi SMK Negeri 1 Majalengka.
                                 </p>
-                                <h4>David Morgan</h4>
-                                <h5>Student, CSE</h5>
+                                <h4>Drs. Nono Mardono</h4>
+                                <h5>Kepala Sekolah SMKN 1 Majalengka</h5>
                             </div>
                         </div>
                     </div>

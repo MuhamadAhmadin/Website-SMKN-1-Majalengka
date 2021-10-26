@@ -13,7 +13,7 @@
                                     <h3>PENDIDIKAN ADALAH </h3>
                                     <h2>PASPOR MASA DEPAN </h2>
                                     <p>Karena besok adalah milik orang-orang yang mempersiapkannya hari ini </p>
-                                    <a class="default-btn" href="about.html">Learn more</a>
+                                    <a class="default-btn" href="about.html">DAFTAR SEKARANG</a>
                                 </div>
                             </div>
                         </div>
