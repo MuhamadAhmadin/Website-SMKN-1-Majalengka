@@ -45,8 +45,8 @@
 		                <div class="col-md-4 col-sm-4">
 		                    <div class="header-top-right text-md-end text-center">
 		                        <ul>
-		                            <li><a href="<?= base_url() ?>/login">login</a></li>
-		                            <li><a href="<?= base_url() ?>/register">register</a></li>
+		                            <li><a href="javascript:void(0)">login</a></li>
+		                            <li><a href="javascript:void(0)">register</a></li>
 		                        </ul>
 		                    </div>
 		                </div>
