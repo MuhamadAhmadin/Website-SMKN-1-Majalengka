@@ -23,4 +23,9 @@ class Pages extends BaseController
     {
         return view('pages/prestasi', ['title' => 'Prestasi']);
     }
+
+    public function kontak()
+    {
+        return view('pages/kontak', ['title' => 'Kontak']);
+    }
 }
