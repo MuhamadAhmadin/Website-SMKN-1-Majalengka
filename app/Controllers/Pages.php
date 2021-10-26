@@ -13,4 +13,9 @@ class Pages extends BaseController
     {
         return view('pages/visi_misi', ['title' => 'Visi & Misi']);
     }
+
+    public function sejarah()
+    {
+        return view('pages/sejarah', ['title' => 'Sejarah']);
+    }
 }
