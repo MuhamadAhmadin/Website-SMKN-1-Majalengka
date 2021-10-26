@@ -65,7 +65,7 @@ a:focus{
 }
 a:focus,
 a:hover {
-    color: #e6da00;
+    color: #FFB703;
     text-decoration: none;
 }
 a:active, a:hover {
@@ -151,9 +151,9 @@ ul{
     position: relative;
     text-transform: uppercase;
     z-index: 9;
-    background: #e6da00;
+    background: #FFB703;
 }
-.default-btn:hover {color: #e6da00; background: #fff}
+.default-btn:hover {color: #FFB703; background: #fff}
 
 .banner-btn span {
     transition: all 0.3s ease 0s;
@@ -611,7 +611,7 @@ textarea {
 .main-menu ul li:last-child a{
     padding-right: 0px;
 }
-.main-menu nav ul > li:hover > a {color: #e6da00;}
+.main-menu nav ul > li:hover > a {color: #FFB703;}
 .one.main-menu ul li ul {top: 75%}
 .sticky .one.main-menu ul li ul {top: 100%}
 .main-menu ul li ul {
@@ -652,7 +652,7 @@ textarea {
     line-height: 20px;
     margin-right: 22px;
 }
-.main-menu ul li ul li:hover > a {padding-left: 5px;color: #e6da00}
+.main-menu ul li ul li:hover > a {padding-left: 5px;color: #FFB703}
 .main-menu ul li ul li a:before {display: none;}
 .main-menu ul li ul li > ul {
     left: 100%;
@@ -895,7 +895,7 @@ textarea {
   width: 43px;
 }
 #search-form > button:hover{
-    background: #e6da00;
+    background: #FFB703;
     border: 2px solid #939369;
 }
 .search-menu {
@@ -914,7 +914,7 @@ textarea {
     font-size: 12px;
     line-height: 30px;
 }
-.search-menu:hover{background:#e6da00}
+.search-menu:hover{background:#FFB703}
 .open.search {
     display: block;
     opacity: 1;
@@ -923,7 +923,7 @@ textarea {
     z-index: 2;
 }
 .header-top{
-    background: #e6da00;
+    background: #FFB703;
     position: relative;
 }
 .header-top:after{
@@ -975,14 +975,14 @@ textarea {
     z-index: 1;
 }
 .header-top-right ul li:hover a{
-    color: #e6da00;
+    color: #FFB703;
 }
 .header-area.two .main-menu > ul > li > a {
     color: #303030;
     line-height: 132px;
 }
 .header-area.two .main-menu > ul > li:hover > a {
-    color: #e6da00;
+    color: #FFB703;
 }
 /*----------------------------------------*/
 /*  3. Slider CSS
@@ -1123,7 +1123,7 @@ textarea {
 .slider-area .owl-item.active .slide-content p {-webkit-animation-delay: 1100ms;animation-delay: 1100ms}    
 .slider-area .owl-item.active .slide-content .banner-btn {-webkit-animation-delay: 1700ms;animation-delay: 1700ms}      
 .owl-nav div {
-    background: rgba(236, 28, 35, 0.64);
+    background: rgba(255, 183, 3, 0.64);
     color: #ddd;
     font-size: 18px;
     border-radius: 3px;
@@ -1194,7 +1194,7 @@ textarea {
     font-family: 'Open Sans', sans-serif;
     font-size: 700;
     font-size: 16px;
-    color: #e6da00;
+    color: #FFB703;
     margin-bottom: 5px;
 }
 .single-notice-left p, .single-notice-right p{
@@ -1225,7 +1225,7 @@ textarea {
     transition: all 0.5s ease 0s;
 }
 .video-icon a:hover i{
-    color: #e6da00;
+    color: #FFB703;
 }
 .notice-video {
     background: rgba(0, 0, 0, 0) url("../img/notice/video.jpg") repeat scroll 0 0;
@@ -1372,7 +1372,7 @@ textarea {
     width: 100%;
     height: 100%;
     content: "";
-    background: rgba(236, 28, 35, 0.3);
+    background: rgba(255, 183, 3, 0.3);
     opacity: 0;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
@@ -1454,7 +1454,7 @@ textarea {
     position: absolute;
     right: 0;
     top: 0;
-    background: #e6da00;
+    background: #FFB703;
     color: #fff;
     height: 50px;
     width: 185px;
@@ -1507,7 +1507,7 @@ textarea {
     border-bottom: none;
 }
 .course-details-right ul li span{float: right}
-.course-details-right h3.red{color: #e6da00; margin-bottom: 0;}
+.course-details-right h3.red{color: #FFB703; margin-bottom: 0;}
 .course-details-content p.margin{margin-bottom: 15px}
 /*----------------------------------------*/
 /*  7. Event CSS
@@ -1582,10 +1582,10 @@ textarea {
 }
 .event-content-right a:hover{
     color: #fff;
-    background: #e6da00;
-    border: 1px solid #e6da00;
+    background: #FFB703;
+    border: 1px solid #FFB703;
 }
-.single-event:hover .event-date{background: #e6da00}
+.single-event:hover .event-date{background: #FFB703}
 .event-area.two .event-img{
     float: left;
     margin-right: 25px;
@@ -1620,7 +1620,7 @@ textarea {
     transition: all 0.5s ease 0s;
 }
 .event-area.two .event-content h4 a:hover{
-    color: #e6da00;
+    color: #FFB703;
 }
 .event-area.two .event-content ul{
     margin-bottom: 15px;
@@ -1645,7 +1645,7 @@ textarea {
     display: block;
 }
 .event-area.three .event-img a:after{
-    background: rgba(236, 28, 35, 0.3) none repeat scroll 0 0;
+    background: rgba(255, 183, 3, 0.3) none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -1694,7 +1694,7 @@ textarea {
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;  
 }
-.event-area.three .event-content h4:hover a{color: #e6da00}
+.event-area.three .event-content h4:hover a{color: #FFB703}
 .event-area.three .event-content{
     padding: 23px 35px 25px;
 }
@@ -1713,7 +1713,7 @@ textarea {
     float: left;
 }
 .event-area.three .event-content-right a {
-    background: #e6da00 none repeat scroll 0 0;
+    background: #FFB703 none repeat scroll 0 0;
     color: #fff;
     margin-right: 0;
     padding: 8px 20px;
@@ -1859,7 +1859,7 @@ textarea {
     width: 100%;
     height: 100%;
     content: "";
-    background: rgba(236, 28, 35, 0.5);
+    background: rgba(255, 183, 3, 0.5);
     opacity: 0;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
@@ -1922,11 +1922,11 @@ textarea {
     transition: all 0.5s ease 0s;
 }
 .blog-bottom h2 a:hover{
-    color: #e6da00;
+    color: #FFB703;
 }
 .blog-bottom a{
     font-size: 14px;
-    color: #e6da00;
+    color: #FFB703;
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
@@ -1970,7 +1970,7 @@ textarea {
     transition: all 0.5s ease 0s;
 }
 .blog-search form button:hover{
-    background: #e6da00;
+    background: #FFB703;
 }
 .blog-search form button i{
     font-size: 16px;
@@ -1997,7 +1997,7 @@ textarea {
     transition: all 0.5s ease 0s;
 }
 .single-blog-widget ul li:hover a{
-    color: #e6da00;
+    color: #FFB703;
 }
 .single-blog-banner a{position: relative; display: block}
 .single-blog-banner a img{line-height: 0; display: block}
@@ -2034,7 +2034,7 @@ textarea {
     width: 100%;
     height: 100%;
     content: "";
-    background:  rgba(236, 28, 35, 0.5) none repeat scroll 0 0;
+    background:  rgba(255, 183, 3, 0.5) none repeat scroll 0 0;
     opacity: 0;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
@@ -2154,7 +2154,7 @@ textarea {
     display: inline-block;
 }
 .reply-area form .reply-btn:hover{
-    background: #e6da00;
+    background: #FFB703;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
@@ -2274,7 +2274,7 @@ textarea {
     color: #ffffff;
 }
 #scrollUp {
-    background: #e6da00 none repeat scroll 0 0;
+    background: #FFB703 none repeat scroll 0 0;
 }
 /*----------------------------------------*/ 
 /*  12. Footer CSS
@@ -2356,8 +2356,8 @@ textarea {
     color: #c7c7c7;
 }
 .footer-social ul li:hover a, .footer-area.two .footer-social ul li:hover a{
-    border: 1px solid #e6da00;
-    background: #e6da00;
+    border: 1px solid #FFB703;
+    background: #FFB703;
     color: #fff;
 }
 .single-widget ul li:last-child{
@@ -2419,7 +2419,7 @@ textarea {
     height: 100%;
     opacity: 0;
     content: "";
-    background:  rgba(236, 28, 35, 0.5) none repeat scroll 0 0;
+    background:  rgba(255, 183, 3, 0.5) none repeat scroll 0 0;
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
@@ -2467,7 +2467,7 @@ textarea {
     text-transform: uppercase;
 }
 .about-content h2 span{
-    color: #e6da00;
+    color: #FFB703;
 }
 .about-content p{
     font-size: 14px;
@@ -2584,7 +2584,7 @@ textarea {
 }
 .single-teacher-content ul li:hover a i{
     color: #fff;
-    background: #e6da00;
+    background: #FFB703;
 }
 .pagination ul{margin-top: 24px}
 .pagination ul li{display: inline-block; margin-right: 12px}
@@ -2841,7 +2841,7 @@ textarea {
     font-weight: 400;
 }
 .login-toggle-btn > a {
-    color: #e6da00;
+    color: #FFB703;
     float: right;
     -webkit-transition: all 0.2s ease 0s;
     transition: all 0.2s ease 0s;
@@ -2851,9 +2851,9 @@ textarea {
 }
 .button-box .default-btn {
     background: transparent none repeat scroll 0 0;
-    border: 1px solid #e6da00;
+    border: 1px solid #FFB703;
     border-radius: 30px;
-    color: #e6da00;
+    color: #FFB703;
     font-size: 14px;
     margin-top: 40px;
     padding: 8px 36px;
@@ -2863,7 +2863,7 @@ textarea {
 }
 .button-box .default-btn:after, .button-box .default-btn:before{display: none}
 .button-box .default-btn:hover {
-    background-color: #e6da00;
-    border: 1px solid #e6da00;
+    background-color: #FFB703;
+    border: 1px solid #FFB703;
     color: #fff;
 }
