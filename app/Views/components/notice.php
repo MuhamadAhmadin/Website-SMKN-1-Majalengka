@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="notice-right-wrapper mb-25 pb-25">
-                    <h3>VIDEO TOUR SEKOLAH KAMI</h3>
+                    <h3>VIDEO PROFILE SEKOLAH KAMI</h3>
                     <div class="notice-video">
                         <div class="video-icon video-hover">
                             <a class="video-popup" href="https://www.youtube.com/watch?v=SGbMSluQxQs">
@@ -16,7 +16,7 @@
             </div>
             <div class="col-md-6">
                 <div class="notice-left-wrapper">
-                    <h3>Papan Peringatan</h3>
+                    <h3>Papan Pengumuman</h3>
                     <div class="notice-left">
                         <div class="single-notice-left mb-23 pb-20">
                             <h4>1, Oktober 2021</h4>

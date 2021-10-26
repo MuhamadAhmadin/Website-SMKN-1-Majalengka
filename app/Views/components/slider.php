@@ -13,13 +13,13 @@
                                     <h3>PENDIDIKAN ADALAH </h3>
                                     <h2>PASPOR MASA DEPAN </h2>
                                     <p>Karena besok adalah milik orang-orang yang mempersiapkannya hari ini </p>
-                                    <a class="default-btn" href="about.html">DAFTAR SEKARANG</a>
+                                    <a class="default-btn" href="#">DAFTAR SEKARANG</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-5">
                             <div class="slider-img">
-                                <img src="img/dadin_trans.png" alt="slider">
+                                <img src="<?= base_url() ?>/img/dadin_trans.png" alt="slider">
                             </div>
                         </div>
                     </div>
@@ -37,17 +37,16 @@
                         <div class="col-lg-7">
                             <div class="slide-content-wrapper">
                                 <div class="slide-content">
-                                    <h3>PENDIDIKAN MEMBUAT </h3>
-                                    <h2>KEMANUSIAAN LEBIH BAIK </h2>
-                                    <p>I must explain to you how all this mistaken idea of denouncing pleasure and
-                                        prsing pain was born and I will give you a complete account of the system </p>
-                                    <a class="default-btn" href="about.html">Learn more</a>
+                                    <h3>PENDIDIKAN ADALAH </h3>
+                                    <h2>SENJATA AMPUH </h2>
+                                    <p>Pendidikan adalah senjata paling ampuh yang bisa kamu gunakan untuk mengubah dunia</p>
+                                    <a class="default-btn" href="#">Daftar Sekarang</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-5">
                             <div class="slider-img">
-                                <img src="img/dadin_trans.png" alt="slider">
+                                <img src="<?= base_url() ?>/img/dadin_trans.png" alt="slider">
                             </div>
                         </div>
                     </div>

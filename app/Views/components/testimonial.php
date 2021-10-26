@@ -7,7 +7,7 @@
                     <div class="single-testimonial">
                         <div class="testimonial-info">
                             <div class="testimonial-img" style="height: 80px !important; width:80px !important;">
-                                <img src="img/kepsek.jpg" alt="testimonial" style="height: 100%;width:100%;object-fit:cover;background-position: center top;">
+                                <img src="<?= base_url() ?>/img/kepsek.jpg" alt="testimonial" style="height: 100%;width:100%;object-fit:cover;background-position: center top;">
                             </div>
                             <div class="testimonial-content">
                                 <p>Teknologi Informasi Web menjadi sarana bagi SMK Negeri 1 Majalengka untuk memberi pelayanan informasi secara cepat, jelas, dan akuntable. Sekolah siap menerima saran, tanggapan konstruktif dari semua pihak yang akhirnya sekolah akan mampu menjawab keinginan yang di butuhkan masyarakat yaitu memberikan apa sesuai dengan visi dan misi SMK Negeri 1 Majalengka.

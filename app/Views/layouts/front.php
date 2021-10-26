@@ -9,21 +9,21 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+        <link rel="shortcut icon" type="image/x-icon" href="<?= base_url() ?>/img/favicon.png">
 
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/animate.min.css">
-        <link rel="stylesheet" href="css/meanmenu.css">
-        <link rel="stylesheet" href="css/magnific-popup.css">
-        <link rel="stylesheet" href="css/owl.carousel.min.css">
-        <link rel="stylesheet" href="css/font-awesome.min.css">
-        <link rel="stylesheet" href="css/et-line-icon.css">
-        <link rel="stylesheet" href="css/reset.css">
-        <link rel="stylesheet" href="css/ionicons.min.css">
-        <link rel="stylesheet" href="css/material-design-iconic-font.min.css">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/responsive.css">
-        <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+        <link rel="stylesheet" href="<?= base_url() ?>/css/bootstrap.min.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/animate.min.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/meanmenu.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/magnific-popup.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/font-awesome.min.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/et-line-icon.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/reset.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/ionicons.min.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/material-design-iconic-font.min.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/style.css">
+        <link rel="stylesheet" href="<?= base_url() ?>/css/responsive.css">
+        <script src="<?= base_url() ?>/js/vendor/modernizr-3.11.2.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -43,8 +43,8 @@
 		                <div class="col-md-4 col-sm-4">
 		                    <div class="header-top-right text-md-end text-center">
 		                        <ul>
-		                            <li><a href="/login">login</a></li>
-		                            <li><a href="/register">register</a></li>
+		                            <li><a href="<?= base_url() ?>/login">login</a></li>
+		                            <li><a href="<?= base_url() ?>/register">register</a></li>
 		                        </ul>
 		                    </div>
 		                </div>
@@ -56,7 +56,7 @@
 					<div class="row">
 						<div class="col-md-3 col-sm-5 col-6">
 							<div class="logo">
-								<a href="index.html"><img src="img/logo.png" alt="eduhome" /></a>
+								<a href="page/beranda"><img src="<?= base_url() ?>/img/logo.png" alt="eduhome" /></a>
 							</div>
 						</div>
 						<div class="col-md-9 col-sm-7 col-6">
@@ -65,16 +65,16 @@
                                 <div class="main-menu">
                                     <nav>
                                         <ul>
-                                            <li><a href="page/beranda">Beranda</a></li>
-                                            <li><a href="page/profile">Profile</a>
+                                            <li><a href="<?= base_url() ?>/beranda">Beranda</a></li>
+                                            <li><a href="<?= base_url() ?>/page/profile">Profile</a>
                                                 <ul>
-                                                    <li><a href="page/sejarah">Sejarah</a></li>
-                                                    <li><a href="page/visi-misi">Visi & Misi</a></li>
+                                                    <li><a href="<?= base_url() ?>/page/sejarah">Sejarah</a></li>
+                                                    <li><a href="<?= base_url() ?>/page/visi-misi">Visi & Misi</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="page/prestasi">Prestasi</a>
-                                            <li><a href="/kontak">Kontak</a>
-                                            <li><a href="/bkk">Bursa Kerja Khusus</a>
+                                            <li><a href="<?= base_url() ?>/page/prestasi">Prestasi</a>
+                                            <li><a href="<?= base_url() ?>/page/kontak">Kontak</a>
+                                            <li><a href="<?= base_url() ?>/page/bkk">Bursa Kerja Khusus</a>
                                         </ul>
                                     </nav>
                                 </div>
@@ -89,7 +89,7 @@
                                         <div class="search-form">
                                             <form id="search-form" action="#">
                                                 <input type="search" placeholder="Search here..." name="search" />
-                                                <button type="submit">
+                                                <button type="button">
                                                     <span><i class="fa fa-search"></i></span>
                                                 </button>
                                             </form>                                
@@ -111,17 +111,17 @@
 
         <?= $this->renderSection('content') ?>
 
-		<script src="js/vendor/jquery-3.6.0.min.js"></script>
-        <script src="js/vendor/jquery-migrate-3.3.2.min.js"></script>
-        <script src="js/bootstrap.bundle.min.js"></script>
-        <script src="js/jquery.meanmenu.js"></script>
-        <script src="js/jquery.magnific-popup.js"></script>
-        <script src="js/ajax-mail.js"></script>
-        <script src="js/owl.carousel.min.js"></script>
-        <script src="js/jquery.mb.YTPlayer.js"></script>
-        <script src="js/jquery.nicescroll.min.js"></script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
+		<script src="<?= base_url() ?>/js/vendor/jquery-3.6.0.min.js"></script>
+        <script src="<?= base_url() ?>/js/vendor/jquery-migrate-3.3.2.min.js"></script>
+        <script src="<?= base_url() ?>/js/bootstrap.bundle.min.js"></script>
+        <script src="<?= base_url() ?>/js/jquery.meanmenu.js"></script>
+        <script src="<?= base_url() ?>/js/jquery.magnific-popup.js"></script>
+        <script src="<?= base_url() ?>/js/ajax-mail.js"></script>
+        <script src="<?= base_url() ?>/js/owl.carousel.min.js"></script>
+        <script src="<?= base_url() ?>/js/jquery.mb.YTPlayer.js"></script>
+        <script src="<?= base_url() ?>/js/jquery.nicescroll.min.js"></script>
+        <script src="<?= base_url() ?>/js/plugins.js"></script>
+        <script src="<?= base_url() ?>/js/main.js"></script>
     </body>
 
 </html>

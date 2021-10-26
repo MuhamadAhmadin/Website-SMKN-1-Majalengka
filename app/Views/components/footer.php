@@ -5,64 +5,66 @@
             <div class="row">
                 <div class="col-12">
                     <div class="footer-logo text-center mb-70">
-                        <a href="index.html"><img src="img/logo.png" alt="smkn 1 majalengka" width="400"></a>
+                        <a href="#"><img src="<?= base_url() ?>/img/logo.png" alt="smkn 1 majalengka" width="400"></a>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="single-widget">
-                        <h3>why eduhome</h3>
+                        <h3>Kenapa Stemanika</h3>
                         <ul>
-                            <li><a href="#">great campus</a></li>
-                            <li><a href="#">various faculty</a></li>
-                            <li><a href="#">low cost</a></li>
-                            <li><a href="#">transport support</a></li>
-                            <li><a href="#">nice hostel</a></li>
+                            <li><a href="#">Sekolah yang Keren</a></li>
+                            <li><a href="#">Beragam Jurusan</a></li>
+                            <li><a href="#">Biaya Terjangkau</a></li>
+                            <li><a href="#">Transportasi mudah</a></li>
+                            <li><a href="#">Lingkungan nyaman</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="single-widget">
-                        <h3>information</h3>
+                        <h3>Informasi</h3>
                         <ul>
-                            <li><a href="#">addmission</a></li>
-                            <li><a href="#">Academic Calender</a></li>
-                            <li><a href="event.html">Event List</a></li>
-                            <li><a href="#">Hostel &amp; Dinning</a></li>
-                            <li><a href="#">TimeTable</a></li>
+                            <li><a href="#">Penerimaan</a></li>
+                            <li><a href="#">Kalender Akademik</a></li>
+                            <li><a href="#">Daftar Acara</a></li>
+                            <li><a href="#">Lokasi sekolah</a></li>
+                            <li><a href="#">Visi dan Misi</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="single-widget">
-                        <h3>useful links</h3>
+                        <h3>Tautan</h3>
                         <ul>
-                            <li><a href="course.html">our courses</a></li>
-                            <li><a href="about.html">about us</a></li>
-                            <li><a href="teacher.html">teachers &amp; faculty</a></li>
-                            <li><a href="#">teams &amp; conditions</a></li>
-                            <li><a href="event.html">our events</a></li>
+                            <li><a href="#">Ekskul</a></li>
+                            <li><a href="#">Tentang kami</a></li>
+                            <li><a href="#">Guru &amp; Jurusan</a></li>
+                            <li><a href="#">Berita Acara</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="single-widget instagram">
-                        <h3>instagrm</h3>
-                        <a href="event.html" class="mb-15 mr-15">
-                            <img src="img/footer/footer1.jpg" alt="instagrm">
-                            <i class="fa fa-link"></i>
-                        </a>
-                        <a href="event.html" class="mb-15 gap">
-                            <img src="img/footer/footer2.jpg" alt="instagrm">
-                            <i class="fa fa-link"></i>
-                        </a>
-                        <a href="event.html" class="mr-15">
-                            <img src="img/footer/footer3.jpg" alt="instagrm">
-                            <i class="fa fa-link"></i>
-                        </a>
-                        <a href="event.html">
-                            <img src="img/footer/footer4.jpg" alt="instagrm">
-                            <i class="fa fa-link"></i>
-                        </a>
+                        <h3>instagram</h3>
+                        
+                        <div class="d-flex justify-content-around flex-wrap">
+                            <a href="#" class="mb-15 mr-15">
+                                <img src="<?= base_url() ?>/img/stm1.jpg" alt="instagrm" width="100">
+                                <i class="fa fa-link"></i>
+                            </a>
+                            <a href="#" class="mb-15 gap">
+                                <img src="<?= base_url() ?>/img/stm2.jpg" alt="instagrm" width="100">
+                                <i class="fa fa-link"></i>
+                            </a>
+                            <a href="#" class="mr-15">
+                                <img src="<?= base_url() ?>/img/berita3.jpg" alt="instagrm" width="100">
+                                <i class="fa fa-link"></i>
+                            </a>
+                            <a href="#">
+                                <img src="<?= base_url() ?>/img/berita1.png" alt="instagrm" width="100">
+                                <i class="fa fa-link"></i>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
