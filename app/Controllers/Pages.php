@@ -18,4 +18,9 @@ class Pages extends BaseController
     {
         return view('pages/sejarah', ['title' => 'Sejarah']);
     }
+
+    public function prestasi()
+    {
+        return view('pages/prestasi', ['title' => 'Prestasi']);
+    }
 }

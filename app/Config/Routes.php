@@ -35,6 +35,7 @@ $routes->get('/', 'Pages::beranda');
 $routes->get('/beranda', 'Pages::beranda');
 $routes->get('/page/visi-misi', 'Pages::visi_misi');
 $routes->get('/page/sejarah', 'Pages::sejarah');
+$routes->get('/page/prestasi', 'Pages::prestasi');
 
 /*
  * --------------------------------------------------------------------

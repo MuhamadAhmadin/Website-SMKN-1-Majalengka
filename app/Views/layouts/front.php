@@ -24,6 +24,8 @@
         <link rel="stylesheet" href="<?= base_url() ?>/css/style.css">
         <link rel="stylesheet" href="<?= base_url() ?>/css/responsive.css">
         <script src="<?= base_url() ?>/js/vendor/modernizr-3.11.2.min.js"></script>
+
+        <?= $this->renderSection('css') ?>
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -122,6 +124,8 @@
         <script src="<?= base_url() ?>/js/jquery.nicescroll.min.js"></script>
         <script src="<?= base_url() ?>/js/plugins.js"></script>
         <script src="<?= base_url() ?>/js/main.js"></script>
+
+        <?= $this->renderSection('js') ?>
     </body>
 
 </html>
